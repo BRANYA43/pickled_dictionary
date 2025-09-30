@@ -1,0 +1,7 @@
+line-length = 100
+force-exclude = true
+extend-exclude = ['migrations']
+lint.extend-select = ['T20']
+
+[format]
+quote-style = 'single'
